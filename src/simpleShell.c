@@ -54,7 +54,7 @@ int main(void){
 			}
 
 			argumentos[num_args+1] = NULL;
-			printf("\n");
+			printf("\n"); 
 		}
 
 		//PASSO 5
